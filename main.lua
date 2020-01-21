@@ -1,5 +1,7 @@
 -- Main Lua functions
 
+bump = require "lib.bump"
+
 function love.load()
 
 end
