@@ -1,6 +1,7 @@
 -- Main Lua functions
 
 bump = require "lib.bump"
+class = require "lib.30log"
 player = require "entities.player"
 
 local world = bump.newWorld()
