@@ -16,7 +16,19 @@ function player.draw()
 	love.graphics.rectangle("fill", player.x,player.y, player.width, player.height)
 end
 
+function player.move(dt)
+
+end
+
+function player.attack()
+
+end
+
 function player.applyGravity(dt)
+
+end
+
+function player.jump()
 
 end
 
